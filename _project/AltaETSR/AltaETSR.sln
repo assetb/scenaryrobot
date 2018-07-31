@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltaETSR", "AltaETSR.csproj", "{A32C695E-CB82-4E19-92E2-EB1A11E8D694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETSApp", "..\ETSApp\ETSApp.csproj", "{38622B3F-51C7-4047-AA09-9AD852D0FF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BObjects", "..\BObjects\BObjects.csproj", "{A3DC0F7E-32A9-4CDB-B391-1EAA8EF33DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMApp", "MVVMApp\MVVMApp.csproj", "{040EBAE4-4051-473E-815C-84E2E9AEE957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32C695E-CB82-4E19-92E2-EB1A11E8D694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32C695E-CB82-4E19-92E2-EB1A11E8D694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32C695E-CB82-4E19-92E2-EB1A11E8D694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32C695E-CB82-4E19-92E2-EB1A11E8D694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38622B3F-51C7-4047-AA09-9AD852D0FF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38622B3F-51C7-4047-AA09-9AD852D0FF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38622B3F-51C7-4047-AA09-9AD852D0FF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38622B3F-51C7-4047-AA09-9AD852D0FF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DC0F7E-32A9-4CDB-B391-1EAA8EF33DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DC0F7E-32A9-4CDB-B391-1EAA8EF33DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DC0F7E-32A9-4CDB-B391-1EAA8EF33DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DC0F7E-32A9-4CDB-B391-1EAA8EF33DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040EBAE4-4051-473E-815C-84E2E9AEE957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040EBAE4-4051-473E-815C-84E2E9AEE957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040EBAE4-4051-473E-815C-84E2E9AEE957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040EBAE4-4051-473E-815C-84E2E9AEE957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
